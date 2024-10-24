@@ -48,7 +48,7 @@ This project focuses on analyzing insurance claim data provided by **an insuranc
 
 ## Notebooks Included
 
-### 1. KPI Generation Notebook (To be uploaded)
+### 1. KPI Generation Notebook
 
 - **File**: `KPI_Generation.ipynb`
 - **Description**: This notebook generates key performance indicators (KPIs) for insurance claims. It analyzes policyholder behavior, claim settlement times, agent performance, and much more. KPIs help the business make data-driven decisions.
