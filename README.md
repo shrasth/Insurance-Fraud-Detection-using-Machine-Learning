@@ -7,14 +7,13 @@ This project focuses on analyzing insurance claim data provided by **an insuranc
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Data Source](#data-source)
-- [Notebooks Included](#notebooks-included)
+- [Notebooks](#notebooks-included)
   - [KPI Generation](#kpi-generation-notebook)
   - [Predictive Modeling](#predictive-modeling-notebook)
 - [Key Insights and KPIs](#key-insights-and-kpis)
 - [Predictive Modeling](#predictive-modeling)
 - [Dashboard Visualization](#dashboard-visualization)
 - [How to Use](#how-to-use)
-- [Author](#author)
 ---
 
 ## Project Overview
@@ -50,7 +49,7 @@ This project focuses on analyzing insurance claim data provided by **an insuranc
 
 ### 1. KPI Generation Notebook
 
-- **File**: `KPI_Generation.ipynb`
+- **File**: [`KPI_Generation.ipynb`] (https://github.com/shrasth/Fraud-Detection-Data-Pipeline/blob/main/insurance_data.ipynb)
 - **Description**: This notebook generates key performance indicators (KPIs) for insurance claims. It analyzes policyholder behavior, claim settlement times, agent performance, and much more. KPIs help the business make data-driven decisions.
 
 ### 2. Predictive Modeling Notebook
