@@ -18,10 +18,10 @@ This project focuses on analyzing insurance claim data provided by **an insuranc
 
 ## Project Overview
 
-- **Description**: This project investigates fraudulent insurance claims using advanced data analytics techniques. It generates KPIs to understand the performance of various aspects of the insurance business, including claims and policyholder behavior. It also builds predictive models to detect fraudulent claims and assess model performance.
+- **Description**: This project investigates fraudulent insurance claims using Machine learning techniques. It generates KPIs to understand the performance of various aspects of the insurance business, including claims and policyholder behavior. It also builds predictive models to detect fraudulent claims and assess model performance.
   
 - **Objective**: 
-  - Identify fraudulent claims.
+  - Identify fraudulent insurance claims.
   - Generate KPIs for various insurance metrics.
   - Build predictive models to classify fraudulent vs. non-fraudulent claims.
   - Visualize the results in interactive dashboards.
